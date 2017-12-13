@@ -1,5 +1,7 @@
 # SoalBinarGP
 
+Ketentuan: `Fork repo ini kemudian Clone repo masing-masing. Buat program di repo kemudian Push`
+
 1) Buatlah sebuah kalkulator yang dapat diinputkan oleh user. Contoh:
 
 ```
